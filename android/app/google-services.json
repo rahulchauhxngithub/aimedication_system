@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441047472702",
+    "project_id": "ai-medication-system",
+    "storage_bucket": "ai-medication-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441047472702:android:3a1dd0b614bbc79db14f6f",
+        "android_client_info": {
+          "package_name": "com.example.aimedication_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIekO4dd6uVQqHO_RQ9rv7S11LRxO3rVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
